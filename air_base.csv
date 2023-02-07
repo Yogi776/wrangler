@@ -1,0 +1,4 @@
+Airbase,Lat_Long,Lat_Long_1,Lat_Long_2,Elevation (ft),Variation,From city,Time Zone,Zip code,airbase_code
+Cannon Air Force Base,34-22-57.9884N 103-19-19.7383W,34-22.966473N 103-19.328972W,"34.3827746,-103.3221495",4295,07E (2015),"5 miles W of CLOVIS, NM",UTC -7 (UTC -6 during Daylight Saving Time),88101,kcvs
+Holloman Air Force Base,32-51-06.6900N 106-06-30.7500W,32-51.111500N 106-06.512500W,"32.8518583,-106.1085417",4092.6,10E (1990),"6 miles SW of ALAMOGORDO, NM",UTC -7 (UTC -6 during Daylight Saving Time),88330,hmn
+Kirtland Air Force Base,35.043333 -106.612909,,,5309,,,,87117,ikr
